@@ -88,9 +88,38 @@ Sim
 
 ---
 
-Esse resumo consolida os pontos principais da vaga e pode servir como base para descrição oficial ou alinhamento interno.  
+**Eu**
+Faça uma entrevista para a vaga
 
-👉 Deseja que eu refine esse resumo em formato de **descrição de vaga pronta para publicação** (com responsabilidades, requisitos e benefícios), ou prefere mantê-lo como análise técnica interna?
+**Copilot**
+Perfeito! Vamos simular uma entrevista para a vaga de Especialista em Inteligência Artificial – Assistente Sênior. Eu conduzirei como entrevistador técnico, fazendo uma pergunta por vez, e você responde como candidato. No final, posso gerar uma análise do desempenho.
+
+👉 Vamos começar:
+
+Pergunta 1:  
+Você poderia me contar sobre um projeto em que aplicou Inteligência Artificial para resolver um problema complexo de negócio? Gostaria de entender o contexto, as tecnologias utilizadas e o impacto gerado.
+
+**Eu**
+Eu fiz um projeto de desenvolver um app de finanças pessoais usando vibe coding no Lovable.
+
+**Copilot**
+Interessante! Obrigado por compartilhar esse exemplo.
+
+Pergunta 2:  
+No desenvolvimento desse app de finanças pessoais, como você aplicou técnicas de Inteligência Artificial especificamente? Gostaria de entender se houve uso de modelos de machine learning, análise de dados ou alguma automação inteligente que agregou valor ao produto.
+
+**Eu**
+utilizamos um chatbot para controle das finanças
+
+**Copilot**
+
+Muito bom, usar um chatbot para controle financeiro é uma aplicação prática de IA que agrega valor direto ao usuário.
+
+Pergunta 3:  
+Como você estruturou a arquitetura técnica desse chatbot? Gostaria de entender quais componentes principais foram usados (ex.: processamento de linguagem natural, integração com banco de dados, APIs) e como você garantiu a escalabilidade e segurança da solução.
+
+-------- finalizamos por aqui -----------
+Mas era possível responder mais perguntas e no final pedir um feedback do Copilot, indicando pontos fortes e o que melhorar.
 
 
 
